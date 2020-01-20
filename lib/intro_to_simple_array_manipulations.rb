@@ -30,8 +30,8 @@ def using_concat(array,list)
   array.concat(list)
 end
 
-def using_insert()
-  Array.insert[4]
+def using_insert(array,element)
+  array.insert["sandwich"]
 end
 
 #def using_uniq()
